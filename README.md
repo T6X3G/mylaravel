@@ -1,4 +1,5 @@
 # Laravel Docker App
+![App Demo](assets/docker.gif)
 
 Энэхүү төсөл нь **Laravel**, **Docker**, болон **MySQL** ашиглан бүтээгдсэн вэб аппликейшн юм.
  Laravel фреймворкийг контейнерээр ажиллуулж, Apache эсвэл Nginx сервер хэрэглэлгүйгээр `php artisan serve`-р ажиллуулдаг онцлогтой.
